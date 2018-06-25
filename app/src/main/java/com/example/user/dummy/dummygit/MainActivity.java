@@ -12,7 +12,5 @@ public class MainActivity extends AppCompatActivity {
         //This is a test commit
         //2nd commit
         //by abhinand
-
-        //by shanil
     }
 }
